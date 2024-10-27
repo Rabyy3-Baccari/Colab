@@ -2,7 +2,7 @@
 
 This repository provides a reimplementation from scratch of a **Siamese Neural Network (SNN)** for **One-shot Image Recognition** using the **Faces in the Wild** dataset. The approach is based on the foundational paper by Koch, Zemel, and Salakhutdinov, leveraging deep metric learning to address the challenges of one-shot learning tasks.
 - **Paper Link**: [Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
-<img src="Siamease_Example.png" alt="Example Image" width="600" height="300">
+<img src="Siamease_Example.png" alt="Example Image" width="500" height="300">
 
 
 ## Overview
